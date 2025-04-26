@@ -2,7 +2,7 @@
 - [肖臻老师公开课](https://www.bilibili.com/video/BV1Vt411X7JF)：全网讲区块链讲的最好的课程，入坑神作，想了解区块链绝不能错过
 - [WTF academy](https://www.wtf.academy)：solidity、ethers入门，0xAA老学长的网站
 - [Gryphsis academy](https://www.gryphsis.com)：主要是金融、交易和量化
-	- 基础部分免费，进阶部分如果大家需求比较多的话我们可以跟他们要名额
+	- 基础部分免费，秋季如果大家需求比较多的话我们可以跟他们要名额
 
 ## Solana
 - [Solana official docs](https://solana.com/docs)：官方文档
