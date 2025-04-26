@@ -5,7 +5,7 @@ We are gonna focus on blockchain development and hackathon experiences. And this
 
 Currently we have:
 - [resources](./resources.md): Collected some crypto learning resources you might find useful.
-- [hackathon经验](./hackathon经验): Hackathon experience shared by [JH Chong](https://github.com/jhchong0405)
-- []
+- [hackathon经验](./hackathon经验): Hackathon experience shared by [JH Chong](https://github.com/jhchong0405).
+- [hackathon-resources](./hackathon-resources): Something useful for hackathons.
 
 We will be actively updating this repo. Hopefully there will be more experience sharing and tech blogs in the future.
