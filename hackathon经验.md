@@ -1,5 +1,5 @@
 # hackathon经验
-> By JH Chong
+> By [JH Chong](https://github.com/jhchong0405)
 
 ## 我参加 ETH Global 黑客松的几点经验分享
 
