@@ -12,6 +12,7 @@ The items we used (sorted in lexicographical order):
 | [Helius](https://docs.helius.dev) | One of the biggest **RPC & API** provider on Solana. | [Rhyne] |
 | [Pinata](https://pinata.cloud) | **IPFS** provider | [Rhyne] |
 | [Privy](https://www.privy.io/wallets) | **Embed wallet** on your webpage | [Rhyne] |
+| [Birdeye](https://bds.birdeye.so) | **Trading data aggregator** | [Rhyne] |
 | more | to be completed | ... |
 
 
