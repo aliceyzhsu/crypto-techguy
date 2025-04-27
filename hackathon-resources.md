@@ -9,7 +9,7 @@ The items we used (sorted in lexicographical order):
 | :-- | :-- | :-- |
 | [Arbitrum Stylus](https://arbitrum.io/stylus) | A framework that allows you to write contracts in **Rust** on Arbitrum. Overcame the limitation of the EVM in handling large computations and high storage costs by using **WASM VM**. | [Rhyne]
 | [Cursor](https://www.cursor.com) | **AI code editor**. Especially very convenient for building the **frontend**. You can even code in natural language with it. | [Rhyne], [JH] | 
-| [Helius](https://www.helius.dev) | **Infra** provider on Solana. RPC, webhooks, etc. | [Rhyne] |
+| [Helius](https://docs.helius.dev) | One of the biggest **RPC & API** provider on Solana. | [Rhyne] |
 | [Pinata](https://pinata.cloud) | **IPFS** provider | [Rhyne] |
 | [Privy](https://www.privy.io/wallets) | **Embed wallet** on your webpage | [Rhyne] |
 | more | to be completed | ... |
